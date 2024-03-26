@@ -1,4 +1,4 @@
- export const url = await 'https://open-weather13.p.rapidapi.com/city/faridabad';
+ export const url ='https://open-weather13.p.rapidapi.com/city/faridabad';
  export const options = {
 method: 'GET',
 headers: {
